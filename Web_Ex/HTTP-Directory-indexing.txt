@@ -1,0 +1,4 @@
+First go to http://challenge01.root-me.org/web-serveur/ch4/
+Check the page source
+Then type at the end of the url "/admin", you will be redirected to the index
+After that you choose the /backup folder that contains the file admin.txt, which has the plaintext password

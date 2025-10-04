@@ -1,0 +1,6 @@
+I looked at the source, in the links we see a Facebook
+A quick look at md5 Hash Generator ( http://www.miraclesalad.com/webtools/md5.php )
+I test if https://facebook.com == a023cfbf5f1c39bdf8407f28b60cd134
+That's the case, all I have to do now is do the md5 sum of https://google.fr which gives:99999ebcfdb78df077ad2727fd00969f
+I entered the following URL in my browser: http://challenge01.root-me.org/web-serveur/ch52/?url=https://google.fr&h=99999ebcfdb78df077ad2727fd00969f
+The flag appears on the screen and I take its screenshot 
