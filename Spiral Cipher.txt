@@ -1,0 +1,5 @@
+cipher:taskphaWL_PL4sOingpYefdngaP{_diddL40ap}y5rn_s1m37
+
+Method used (brief): put the ciphertext into a 7×7 matrix row-wise, then read the matrix in a clockwise spiral (start moving right) to recover plaintext.
+
+taskphangaP{_Wdy5rndLf}37_i_epm1sdPYa04LdLpgniOs4
